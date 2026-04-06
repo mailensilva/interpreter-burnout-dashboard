@@ -124,7 +124,7 @@ An interactive tool that simulates an interpreter's burnout risk score based on 
 
 ## About
 
-Built by **Mailén Silva Ahijado**, freelance medical interpreter (OPI/VRI, HIPAA-compliant), English educator, and data analytics learner based in Argentina.
+Built by **Mailén Silva Ahijado**, freelance medical interpreter (OPI/VRI), English educator, and data analytics learner based in Argentina.
 
 This project sits at the intersection of three things: a profession I know from the inside, a country whose labor conditions are rarely visible in global remote work conversations, and a new technical skillset I am actively building.
 
