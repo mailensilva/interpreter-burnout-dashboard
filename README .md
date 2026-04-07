@@ -3,7 +3,8 @@
 > *"Or why I decided to switch to data."*
 
 A 4-page interactive Power BI dashboard exploring burnout, turnover costs, and financial sustainability among freelance medical interpreters - built from a real survey, real operational experience, and a logistic regression model trained on augmented data.
-
+> To view the interactive dashboard, download the `.pbix` file and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop) (free).
+>  [View the original survey data and cleaning process on Google Sheets](https://docs.google.com/spreadsheets/d/1dBA7wTUcS9D8svZgkUO7NJ4zinLxP5goIwLt5fkm8kM/edit?usp=sharing)
 ---
 
 ## Background
