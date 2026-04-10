@@ -19,7 +19,8 @@ I designed and distributed a survey targeting medical interpreters, shared acros
 
 ### Page 1 - The Burnout Paradox
 
-![Page 1](page1-burnout-paradox.png)
+![Page 1]<img width="1319" height="739" alt="page1-burnout-paradox" src="https://github.com/user-attachments/assets/9faf694b-3a84-4e0a-8d46-b96d5ac637cb" />
+
 
 Explores why interpreters stay and why they leave, using survey responses on resignation drivers and retention factors.
 
